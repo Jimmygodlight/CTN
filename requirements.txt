@@ -1,0 +1,4 @@
+capturethenarrative==0.5.0
+streamlit
+pandas
+keyring
